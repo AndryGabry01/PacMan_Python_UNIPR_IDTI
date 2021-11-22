@@ -31,6 +31,7 @@ def _tup(t: tuple) -> tuple:
 def init_canvas(size: (int, int)):
     '''Set size of first CANVAS and return it'''
     global _canvas, _size
+    
     pg.init()
     _size = size
     _canvas = pg.display.set_mode(_tup(size))
