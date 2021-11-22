@@ -34,6 +34,7 @@ class PacManGui:
         for a in arena.actors():
             if a.symbol() != None:
                 g2d.draw_image_clip(self._sprites, a.symbol(), a.size(), a.position())
+                
         #Decrementa il tempo rimanente per mangiare i fantasmi
         self._game.eating_counter()
         self._game.behavor_ghost_timer()
