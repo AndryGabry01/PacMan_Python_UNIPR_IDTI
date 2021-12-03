@@ -29,3 +29,10 @@ Progetto PacMan svolto nella prima parte del corso di Programmazione di Ingegner
 - Il progetto iniziale è contenuto all'interno della cartella esempi della repository sopra citata e si chiama "Bounce".
 #### G2D
 - La repository sopra citata contiene anche la libreria "G2D".
+
+## Immagini del Gioco
+
+![GameWon](https://i.imgur.com/fpLhkUA.png)
+![GameOver](https://i.imgur.com/RUKyVIh.png)
+![Ghost](https://i.imgur.com/fx8ClYO.png)
+![GamePlay](https://i.imgur.com/Z4On3da.png)
